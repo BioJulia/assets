@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'SinhalaMN';
+	src: url('SinhalaMN.eot');
+	src: url('SinhalaMN.woff') format('woff'), url('SinhalaMN.ttf') format('truetype'), url('SinhalaMN.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SinhalaMN-Bold';
+	src: url('SinhalaMN-Bold.eot');
+	src: url('SinhalaMN-Bold.woff') format('woff'), url('SinhalaMN-Bold.ttf') format('truetype'), url('SinhalaMN-Bold.svg') format('svg');
+	font-weight: bold;
+}
+
+.julia-cols {
+	
+
+}
