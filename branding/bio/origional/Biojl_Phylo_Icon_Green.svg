@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12.951742mm"
+   height="12.951742mm"
+   viewBox="0 0 45.892 45.892"
+   id="svg8690"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Biojl_Phylo_Icon_Green.svg">
+  <defs
+     id="defs8692">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5168-2">
+      <ellipse
+         id="circle5170-3"
+         cy="1029.0471"
+         cx="318.19427"
+         style="fill:#6b85dd;stroke:#4266d5;stroke-width:3.65529895"
+         rx="14.697865"
+         ry="11.78139" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-366.33971"
+     inkscape:cy="-22.768286"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="776"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata8695">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-277.054,-463.70192)">
+    <g
+       transform="translate(177.054,35.802704)"
+       id="Green_Dot_Phylogeny">
+      <circle
+         style="fill:#6bab5b;fill-opacity:1;stroke:#3b972e;stroke-width:5.59658527;stroke-opacity:1"
+         cx="122.946"
+         cy="450.84521"
+         r="20.147707"
+         id="BlueCircle-1" />
+      <g
+         id="g6860-94"
+         transform="matrix(1.3707914,0,0,1.7101298,-313.23197,-1308.959)"
+         clip-path="url(#clipPath5168-2)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path6842-0"
+           d="m 318,1015.4 0,5 -5,0 0,3 -5,0 0,3 -2,0 0,12"
+           style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6844-7"
+           d="m 308,1026.4 2,0 0,14"
+           style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6846-0"
+           d="m 318,1020.4 7,0 0,3 -4,0 0,11"
+           style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6848-6"
+           d="m 325,1023.4 3,0 0,5 -3,0 0,4 -2,0 0,6"
+           style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6850-43"
+           d="m 325,1032.4 2,0 0,6 0,0"
+           style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6852-5"
+           d="m 328,1028.4 3,0 0,11"
+           style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6854-4"
+           d="m 313,1023.4 4,0 0,5 -2,0 0,4"
+           style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6856-6"
+           d="m 317,1028.4 2,0 0,8"
+           style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6858-20"
+           d="m 317,1040.4 0,-8 -2,0 -2,0 0,6 0,0"
+           style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
