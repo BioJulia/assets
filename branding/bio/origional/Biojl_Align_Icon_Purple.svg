@@ -12,7 +12,7 @@
    width="12.943524mm"
    height="12.943524mm"
    viewBox="0 0 45.862882 45.862881"
-   id="svg10533"
+   id="Bio_Align_Purple"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="Biojl_Align_Icon_Purple.svg">
@@ -37,7 +37,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-389.21141"
+     inkscape:cx="-886.35427"
      inkscape:cy="31.50287"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

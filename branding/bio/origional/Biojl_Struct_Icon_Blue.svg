@@ -12,7 +12,7 @@
    width="12.943524mm"
    height="12.943524mm"
    viewBox="0 0 45.862882 45.862881"
-   id="svg4722"
+   id="Bio_Struct_Blue"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="Biojl_Struct_Icon_Blue.svg">
@@ -40,11 +40,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-280.63999"
-     inkscape:cy="-142.78284"
+     inkscape:zoom="11.2"
+     inkscape:cx="19.454318"
+     inkscape:cy="17.2571"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4845"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -63,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,7 +96,7 @@
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 1030.7223,394.88066 c 0,0 0,19.49211 0,0 0,-19.49211 45.8591,-19.49211 45.8591,-19.49211"
+           d="m 1030.0123,403.75519 c 0,0 0,19.49211 0,0 0,-19.49211 45.8591,-19.49211 45.8591,-19.49211"
            id="path4849"
            inkscape:connector-curvature="0" />
         <path

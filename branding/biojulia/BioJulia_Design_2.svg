@@ -22,7 +22,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath6648-18">
       <rect
-         style="fill:#000000;fill-opacity:0.34517768;stroke:none;stroke-width:2.57299995;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#252525;fill-opacity:0.34517768;stroke:none;stroke-width:2.57299995;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect6650-6"
          width="111.77595"
          height="25"
@@ -185,7 +185,7 @@
            d="m 648.56299,680.4483 0,-17.1879"
            style="fill:none;fill-rule:evenodd;stroke:#945bb0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.57299995;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:2.57299995;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 599.66189,680.39719 c 20,0 20,-20 40,-20"
            id="path6618-1"
            inkscape:connector-curvature="0" />
@@ -193,7 +193,7 @@
            inkscape:connector-curvature="0"
            id="path6620-2"
            d="m 609.66189,660.39719 c 20,0 20,20 40,20"
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.57299995;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:2.57299995;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            inkscape:connector-curvature="0"
            id="path6622-2"

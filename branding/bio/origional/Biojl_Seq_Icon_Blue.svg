@@ -12,7 +12,7 @@
    width="12.943558mm"
    height="12.943558mm"
    viewBox="0 0 45.863 45.863"
-   id="svg6805"
+   id="Bio_Seq_Blue"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="Biojl_Seq_Icon_Blue.svg">
@@ -37,7 +37,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-343.49707"
+     inkscape:cx="-840.63993"
      inkscape:cy="-82.782785"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -114,9 +114,9 @@
            inkscape:connector-curvature="0"
            id="path5570-94"
            d="m 736.72781,853.22781 c 9.40951,0 9.40951,-9.4095 18.81902,-9.4095"
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21053302;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:1.21053302;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21053302;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:1.21053302;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 741.43257,843.81831 c 9.4095,0 9.4095,9.4095 18.81901,9.4095"
            id="path5572-9"
            inkscape:connector-curvature="0" />

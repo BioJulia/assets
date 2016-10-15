@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48.92" height="48.92" viewBox="0 0 45.862882 45.862881"><defs><clipPath id="a"><circle r="20.135" cy="447.619" cx="615.891" fill="#d66661" stroke="#c93d39" stroke-width="5.593"/></clipPath></defs><g transform="translate(-592.96 -424.687)"><circle r="20.135" cy="447.619" cx="615.891" fill="#d66661" stroke="#c93d39" stroke-width="5.593"/><g clip-path="url(#a)" fill="none" stroke="#252525" stroke-width="5"><path d="M572.347 439.291h55M605.934 445.291h55M584.216 451.291h55M557.7 457.291h55"/></g></g></svg>
+<svg id="Bio_Align_Red" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="12.944mm" width="12.944mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 45.862882 45.862881">
+ <defs>
+  <clipPath id="clipPath4598" clipPathUnits="userSpaceOnUse">
+   <circle stroke-width="5.593" stroke="#c93d39" cy="447.62" cx="615.89" r="20.135" fill="#d66661"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-257.07 -535.15)">
+  <g transform="translate(-335.89 110.46)">
+   <circle stroke-width="5.593" stroke="#c93d39" cy="447.62" cx="615.89" r="20.135" fill="#d66661"/>
+   <g clip-path="url(#clipPath4598)" stroke="#252525" stroke-width="5" fill="none">
+    <path d="m572.35 439.29h55"/>
+    <path d="m605.93 445.29h55"/>
+    <path d="m584.22 451.29h55"/>
+    <path d="m557.7 457.29h55"/>
+   </g>
+  </g>
+ </g>
+</svg>

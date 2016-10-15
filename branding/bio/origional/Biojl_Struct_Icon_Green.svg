@@ -12,7 +12,7 @@
    width="12.943524mm"
    height="12.943524mm"
    viewBox="0 0 45.862882 45.862881"
-   id="svg6585"
+   id="Bio_Struct_Green"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="Biojl_Struct_Icon_Green.svg">
@@ -40,11 +40,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-352.06856"
-     inkscape:cy="-34.211416"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="26.807442"
+     inkscape:cy="28.130884"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4801"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -52,9 +52,9 @@
      fit-margin-bottom="0"
      inkscape:window-width="1440"
      inkscape:window-height="776"
-     inkscape:window-x="0"
-     inkscape:window-y="1"
-     inkscape:window-maximized="1" />
+     inkscape:window-x="21"
+     inkscape:window-y="119"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata6590">
     <rdf:RDF>
@@ -63,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,7 +96,7 @@
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 1030.7223,394.88066 c 0,0 0,19.49211 0,0 0,-19.49211 45.8591,-19.49211 45.8591,-19.49211"
+           d="m 1030.0118,403.75494 c 0,0 0,19.49211 0,0 0,-19.49211 45.8591,-19.49211 45.8591,-19.49211"
            id="path4805"
            inkscape:connector-curvature="0" />
         <path

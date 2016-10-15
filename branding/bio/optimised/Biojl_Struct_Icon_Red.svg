@@ -1,1 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48.92" height="48.92" viewBox="0 0 45.862882 45.862881"><defs><clipPath id="a"/></defs><circle cx="1021.783" cy="428.69" r="20.135" fill="#d66661" stroke="#c93d39" stroke-width="5.593" transform="translate(-998.852 -405.758)"/><g clip-path="url(#a)" transform="scale(.3557) rotate(45 950.624 -889.015)"><path d="M992.007 429.323s4.775 25.02 23.876 20.016c19.1-5.004 23.876-15.012 23.876-15.012M1030.722 394.88s0 19.493 0 0c0-19.491 45.86-19.491 45.86-19.491M965 387.362s15-15 25-5 10 15 10 15M963.393 418.434s10 20-10 20-25-20-25-20" fill="none" stroke="#252525" stroke-width="3" stroke-linecap="round"/><path d="M1029.839 401.799l-16.73 14.835 9.659-2.588 6.47 24.148 19.319-5.176-6.47-24.148 9.658-2.588zM992.057 431.238l21.907-4.483-9.66-2.588 6.471-24.149-19.318-5.176-6.471 24.148-9.66-2.588z" fill="#252525" fill-rule="evenodd"/><path d="M964.937 385.665l-20.196 9.6 9.998.199-.498 24.995 19.996.398.498-24.995 9.998.2z" fill="#252525" fill-rule="evenodd"/></g></svg>
+<svg id="Bio_Struct_Red" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="12.944mm" width="12.944mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 45.862882 45.862881">
+ <defs>
+  <clipPath id="clipPath4761" clipPathUnits="userSpaceOnUse">
+   <g transform="matrix(1.9879 -1.9879 1.9879 1.9879 -1885.2 1590.8)">
+    <circle r="20.135" stroke="#3b972e" cy="428.69" cx="1021.8" stroke-width="5.593" fill="#6bab5b"/>
+   </g>
+  </clipPath>
+ </defs>
+ <g transform="translate(-185.64 -389.43)">
+  <g transform="translate(-928.65 15.788)">
+   <g transform="translate(115.43 -32.116)">
+    <circle r="20.135" stroke="#c93d39" cy="428.69" cx="1021.8" stroke-width="5.593" fill="#d66661"/>
+   </g>
+   <g transform="matrix(.25152 .25152 -.25152 .25152 989.72 41.918)" clip-path="url(#clipPath4761)">
+    <g stroke="#252525" stroke-linecap="round" stroke-width="3" fill="none">
+     <path d="m992.01 429.32s4.7752 25.02 23.876 20.016c19.101-5.0041 23.876-15.012 23.876-15.012"/>
+     <path d="m1030 403.75v0c0-19.492 45.859-19.492 45.859-19.492"/>
+     <path d="m965 387.36s15-15 25-5 10 15 10 15"/>
+     <path d="m963.39 418.43s10 20-10 20-25-20-25-20"/>
+    </g>
+    <g fill="#252525" fill-rule="evenodd">
+     <path d="m1029.8 401.8-16.73 14.836 9.6593-2.5882 6.4705 24.148 19.318-5.1763-6.4705-24.148 9.6593-2.5882z"/>
+     <path d="m992.06 431.24 21.907-4.4829-9.6593-2.5882 6.4705-24.148-19.318-5.1764-6.4706 24.148-9.6593-2.5882z"/>
+     <path d="m964.94 385.67-20.195 9.5993 9.998 0.19935-0.49839 24.995 19.996 0.39872 0.49838-24.995 9.998 0.19935z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

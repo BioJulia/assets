@@ -12,7 +12,7 @@
    width="12.943524mm"
    height="12.943524mm"
    viewBox="0 0 45.862882 45.862881"
-   id="svg5797"
+   id="Bio_Intervals_Green"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="Biojl_Intervals_Icon_Green.svg">
@@ -38,7 +38,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-297.78285"
+     inkscape:cx="-794.92571"
      inkscape:cy="28.645725"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

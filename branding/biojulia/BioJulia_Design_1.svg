@@ -12,7 +12,7 @@
    width="91.185211mm"
    height="37.25333mm"
    viewBox="0 0 323.0972 131.99999"
-   id="svg6114"
+   id="BioJulia_Logo"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="BioJulia_Design_1.svg">
@@ -22,7 +22,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath6648">
       <rect
-         style="fill:#000000;fill-opacity:0.34517768;stroke:none;stroke-width:2.57299995;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#252525;fill-opacity:0.34517768;stroke:none;stroke-width:2.57299995;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect6650"
          width="111.77595"
          height="25"
@@ -38,7 +38,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="145.61066"
+     inkscape:cx="57.727389"
      inkscape:cy="47.406875"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -180,9 +180,9 @@
            inkscape:connector-curvature="0"
            id="path6930"
            d="m 599.66189,680.39719 c 20,0 20,-20 40,-20"
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.57299995;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:2.57299995;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.57299995;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:2.57299995;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 609.66189,660.39719 c 20,0 20,20 40,20"
            id="path6932"
            inkscape:connector-curvature="0" />

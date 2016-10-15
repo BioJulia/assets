@@ -12,7 +12,7 @@
    width="12.951742mm"
    height="12.951742mm"
    viewBox="0 0 45.892 45.892"
-   id="svg9311"
+   id="Bio_Phylo_Blue"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="Biojl_Phylo_Icon_Blue.svg">
@@ -38,7 +38,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-383.48257"
+     inkscape:cx="-880.62543"
      inkscape:cy="105.80314"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
