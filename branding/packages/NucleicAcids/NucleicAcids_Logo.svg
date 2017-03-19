@@ -9,16 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="232.48763mm"
-   height="47.107204mm"
-   viewBox="0 0 823.77506 166.91529"
+   width="251.10809mm"
+   height="51.383522mm"
+   viewBox="0 0 889.7531 182.0676"
    id="svg4960"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="Nucleotides_Logo.svg"
-   inkscape:export-filename="/Users/bward/github/BioJulia/assets/branding/packages/Nucleotides/Nucleotides_Logo_100.png"
-   inkscape:export-xdpi="100"
-   inkscape:export-ydpi="100">
+   inkscape:export-filename="/Users/bward/github/BioJulia/assets/branding/packages/NucleicAcids/NucleicAcids_Logo_600.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
   <defs
      id="defs4962" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="255.31111"
-     inkscape:cy="93.585295"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="416.16259"
+     inkscape:cy="68.480184"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,9 +59,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-164.66777,-27.476593)">
+     transform="translate(-164.66777,-12.324305)">
     <g
-       transform="matrix(0.26267142,0,0,0.26267142,623.79693,-59.102815)"
+       transform="matrix(0.30079855,0,0,0.30079855,431.2557,-86.822226)"
        id="layer1-2"
        inkscape:label="Layer 1">
       <g
@@ -215,16 +215,16 @@
          id="tspan5245"
          x="154.13202"
          y="167.27528"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:176.86250305px;line-height:125%;font-family:'Sinhala MN';-inkscape-font-specification:'Sinhala MN, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Nucleotides.jl</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:176.86250305px;line-height:125%;font-family:'Sinhala MN';-inkscape-font-specification:'Sinhala MN, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">NucleicAcids.jl</tspan></text>
     <circle
        style="fill:#4c4c4c;stroke:#3a3a3a;stroke-width:3.79524374;stroke-miterlimit:10"
        id="Jl_Grey_Dot"
        r="13.662878"
        cy="155.39215"
-       cx="911.93713"
+       cx="976.43732"
        stroke-miterlimit="10" />
     <g
-       transform="matrix(0.23991371,0.08541176,-0.08383206,0.23547648,645.44299,-29.736167)"
+       transform="matrix(0.27473753,0.0978094,-0.0960004,0.26965623,456.04372,-53.192967)"
        id="layer1-02"
        inkscape:label="Layer 1">
       <g
@@ -424,7 +424,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.28246114,0,0,0.28246114,757.9038,47.130749)"
+       transform="matrix(0.35644989,0,0,0.34354031,774.99184,38.304643)"
        id="T_Blue">
       <path
          d="m 691.6213,143.13711 -40.00897,22.74754 -39.70443,-23.27501 0.30454,-46.022553 40.00897,-22.74754 39.70443,23.275011 z"
@@ -555,7 +555,7 @@
            sodipodi:role="line">O</tspan></text>
     </g>
     <g
-       transform="matrix(0.09549712,-0.22733799,0.22733796,0.09549712,641.62321,174.30715)"
+       transform="matrix(0.10935866,-0.26033642,0.26033639,0.10935866,451.66949,180.46753)"
        id="A_Purple">
       <path
          d="m 474.92278,139.18179 -40.00896,22.74754 -39.70443,-23.27501 0.30453,-46.022555 40.00897,-22.747541 39.70443,23.275012 z"
@@ -726,5 +726,16 @@
            id="tspan4517-6-4"
            sodipodi:role="line">A</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="780.38208"
+       y="-87.036697"
+       id="text4244"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4246"
+         x="780.38208"
+         y="-87.036697" /></text>
   </g>
 </svg>
