@@ -9,16 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="348.59738mm"
-   height="52.428513mm"
-   viewBox="0 0 1235.1876 185.77032"
+   width="231.0253mm"
+   height="52.428516mm"
+   viewBox="0 0 818.5936 185.77033"
    id="svg4960"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="BiologicalSymbols_logo.svg"
-   inkscape:export-filename="/Users/bward/github/BioJulia/assets/branding/packages/BiologicalSymbols/BiologicalSymbols_Logo_100.png"
-   inkscape:export-xdpi="100"
-   inkscape:export-ydpi="100">
+   sodipodi:docname="BioSymbols_logo.svg"
+   inkscape:export-filename="/Users/bward/github/BioJulia/assets/branding/packages/BioSymbols/BioSymbols_Logo_600.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
   <defs
      id="defs4962" />
   <sodipodi:namedview
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="418.70582"
-     inkscape:cy="115.22414"
+     inkscape:cx="-47.984655"
+     inkscape:cy="34.411939"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,7 +59,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-164.66777,-8.6215761)">
+     transform="translate(-164.66777,-8.6215684)">
     <g
        transform="matrix(0.30079855,0,0,0.30079855,219.65547,-80.750797)"
        id="layer1-2"
@@ -215,13 +215,13 @@
          id="tspan5245"
          x="154.13202"
          y="167.27528"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:176.86250305px;line-height:125%;font-family:'Sinhala MN';-inkscape-font-specification:'Sinhala MN, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">BiologicalSymbols.jl</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:176.86250305px;line-height:125%;font-family:'Sinhala MN';-inkscape-font-specification:'Sinhala MN, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">BioSymbols.jl</tspan></text>
     <circle
        style="fill:#4c4c4c;stroke:#3a3a3a;stroke-width:3.79524374;stroke-miterlimit:10"
        id="Jl_Grey_Dot"
        r="13.662878"
        cy="155.39215"
-       cx="1321.4373"
+       cx="905.83728"
        stroke-miterlimit="10" />
     <g
        transform="matrix(0.27473753,0.0978094,-0.0960004,0.26965623,244.44349,-47.121538)"
@@ -424,7 +424,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.35644989,0,0,0.34354031,1118.0918,38.304643)"
+       transform="matrix(0.35644989,0,0,0.34354031,701.29179,38.304643)"
        id="T_Blue">
       <path
          d="m 691.6213,143.13711 -40.00897,22.74754 -39.70443,-23.27501 0.30454,-46.022553 40.00897,-22.74754 39.70443,23.275011 z"
@@ -738,7 +738,7 @@
          x="780.38208"
          y="-87.036697" /></text>
     <g
-       transform="matrix(-0.27375429,-0.1173529,0.11735291,-0.27375429,594.1195,123.09447)"
+       transform="matrix(-0.27375429,-0.1173529,0.11735291,-0.27375429,522.11985,123.09447)"
        id="layer1-0"
        inkscape:label="Layer 1">
       <g
@@ -847,7 +847,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.12700372,-0.268668,0.26866803,0.12700372,463.20602,47.133427)"
+       transform="matrix(0.12700372,-0.268668,0.26866803,0.12700372,391.20637,47.133427)"
        id="layer1-6"
        inkscape:label="Layer 1">
       <path
@@ -1015,7 +1015,7 @@
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(0.30176755,0,0,0.30176755,606.37338,45.003058)"
+       transform="matrix(0.30176755,0,0,0.30176755,534.37373,45.003058)"
        id="layer1-8"
        inkscape:label="Layer 1">
       <g
